@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberRookie
 - 👀 I’m interested in Back-end web development
-- 🌱 I’m currently learning PHP, Javascript, & Kubernetes
+- 🌱 I’m currently learning PHP, Javascript, & AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
